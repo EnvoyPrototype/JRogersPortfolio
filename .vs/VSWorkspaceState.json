@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\vendor",
+    "\\assets\\vendor\\aos",
+    "\\assets\\vendor\\bootstrap",
+    "\\assets\\vendor\\boxicons",
+    "\\assets\\vendor\\boxicons\\css"
   ],
-  "SelectedNode": "\\C:\\Users\\jimro\\Source\\Repos\\JRogersPortfolio",
+  "SelectedNode": "\\assets\\vendor\\boxicons\\css",
   "PreviewInSolutionExplorer": false
 }
