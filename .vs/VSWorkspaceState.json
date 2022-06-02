@@ -2,13 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\css",
-    "\\assets\\vendor",
-    "\\assets\\vendor\\aos",
-    "\\assets\\vendor\\bootstrap",
-    "\\assets\\vendor\\boxicons",
-    "\\assets\\vendor\\boxicons\\css"
+    "\\assets\\css"
   ],
-  "SelectedNode": "\\assets\\vendor\\boxicons\\css",
+  "SelectedNode": "\\assets\\css\\style.css",
   "PreviewInSolutionExplorer": false
 }
