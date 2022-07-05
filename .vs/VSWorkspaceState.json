@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\css"
+    "\\assets\\css",
+    "\\assets\\vendor",
+    "\\assets\\vendor\\boxicons",
+    "\\assets\\vendor\\boxicons\\css"
   ],
-  "SelectedNode": "\\assets\\css\\style.css",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
