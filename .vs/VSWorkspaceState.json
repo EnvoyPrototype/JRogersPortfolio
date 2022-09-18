@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\js",
-    "\\assets\\vendor",
-    "\\assets\\vendor\\boxicons",
-    "\\assets\\vendor\\boxicons\\fonts"
+    "\\assets\\docs"
   ],
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
